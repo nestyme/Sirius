@@ -31,6 +31,8 @@ https://github.com/nestyme/Sirius/tree/master/Seminar_1
 *Всякие полезные ссылки:*
 1. https://habr.com/post/326312/
 2. https://habr.com/post/309504/
+
+
 *Реальность*:
 1. Разбились на команды
 2. ML-команда сделала первые 7-9 разделов задач из 11
