@@ -48,4 +48,4 @@ https://github.com/nestyme/Sirius/tree/master/Seminar_1
 ================================================================
 
 **Презентация проекта (07.07)**
-https://prezi.com/mu16id6jbmsg/present/?auth_key=3hkocdo&follow=xhpq9ikljxiv&kw=present-mu16id6jbmsg&rc=ref-165285972
+https://vk.cc/8fEwcd
